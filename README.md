@@ -6,3 +6,5 @@
 Welcome to my portfolio! This repository showcases my field and skills in terms of data analyst and engineering work
 
 
+# Certifications
+[Data Analyst Skillpath: Zero to Hero in Excel, Sql & Python](https://www.udemy.com/certificate/UC-3d4b7b8d-0171-4b8e-ad5f-882b0c22da92/)
