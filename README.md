@@ -6,7 +6,7 @@
 Welcome to my portfolio! This repository showcases my field and skills in terms of data analyst and engineering work
 
 
-[##Project 1: What factors are associated with the commercial success of video games? ](https://github.com/Darnelz/What-factors-are-associated-with-the-commercial-success-of-video-games-/tree/main 
+##[Project 1: What factors are associated with the commercial success of video games? ](https://github.com/Darnelz/What-factors-are-associated-with-the-commercial-success-of-video-games-/tree/main 
 )
 <img width="1274" height="616" alt="image" src="https://github.com/user-attachments/assets/fc052506-0e6a-4a58-a83b-bf12397c4dae" />
 
