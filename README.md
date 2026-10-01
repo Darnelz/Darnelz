@@ -13,7 +13,6 @@ Welcome to my portfolio! This repository showcases my field and skills in terms 
 
 
 ## [Project 1: What factors drives success of video games? ](https://github.com/Darnelz/What-factors-are-associated-with-the-commercial-success-of-video-games-)
-<img width="637" height="308" alt="image" src="https://github.com/user-attachments/assets/fc052506-0e6a-4a58-a83b-bf12397c4dae" />
 
 This Project is focused on creating and analyzing a data set of games within a span of a year (August 2025 - August 2026) diving deeper on what drives success within video games
 
