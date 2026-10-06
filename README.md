@@ -19,5 +19,5 @@ This Project is focused on creating and analyzing a data set of games within a s
 
 
 ## Certifications
-[Data Analyst Skillpath: Zero to Hero in Excel, Sql & Python](https://www.udemy.com/certificate/UC-3d4b7b8d-0171-4b8e-ad5f-882b0c22da92/)
+[Data Analyst Skillpath: Zero to Hero in Excel, Sql & Python](https://www.udemy.com/certificate/UC-3d4b7b8d-0171-4b8e-ad5f-882b0c22da92/)                                                         
 [Fundamentals of Visualization with Tableau - University of California, Davis](https://coursera.org/share/daf2c9d60f60906d04077db859662151)
