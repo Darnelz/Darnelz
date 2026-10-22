@@ -17,6 +17,11 @@ Welcome to my portfolio! This repository showcases my field and skills in terms 
 This Project is focused on creating and analyzing a data set of games within a span of a year (August 2025 - August 2026) diving deeper on what drives success within video games
 
 
+## [Project 2: Wasteless](https://github.com/Darnelz/Wasteless)
+Making an app which reduces food waste
+
+
+
 
 ## Certifications
 [Fundamentals of Visualization with Tableau - University of California, Davis](https://coursera.org/share/daf2c9d60f60906d04077db859662151)                                                         
